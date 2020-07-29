@@ -3,5 +3,5 @@
   "ticker": "NEO1",
   "description": "Bare metal stakepool running in the heart of Europe.",
   "homepage": "https://neo1pool.github.io",
-  "extended": "https://neo1pool.github.io/neo1-ex.json"
+  "extended": "https://neo1pool.github.io/d/poolmeta.json"
 }
