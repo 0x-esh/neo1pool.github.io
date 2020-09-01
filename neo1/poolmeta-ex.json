@@ -2,5 +2,18 @@
   "itn": {
     "owner": "ed25519_pk19c8zv4wrh2x289pnd0atrdp8z9vtsp3cfmpp0x2nzrgm7ymwr4ts44rnpk",
 	  "witness": "ed25519_sig1a2h8t7skwgtc0c9y90k77f0jzya00mtp9yxlvpr4aq8n8xllv6w34mqgxk7dskqlzt4v6qv3jed0h8gppg32nswf05m0nujzhcnxkpgtar4e9"
+  },
+  "info": {
+    "url_png_icon_64x64": "https://neo1pool.github.io/img/neo_icon.png",
+    "url_png_logo": "https://neo1pool.github.io/img/neo.png",
+    "location": "Czech Republic",
+    "social": {
+        "twitter_handle": "NEO1_StakePool",
+        "telegram_handle": "neo_pool",
+        "github_handle": "neo1pool"
+    },
+    "about": {
+        "server": "Bare metal; BP on ASRock DeskMini, AMD Ryzen 3, 16 GB RAM, NVMe SSD; 1 Gbps up/down; K3s"
+    }
   }
 }
